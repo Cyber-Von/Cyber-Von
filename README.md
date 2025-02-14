@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi I'm Terrance
+www.linkedin.com/in/terrance-posey-a2297113a
 
-<!--
-**Cyber-Von/Cyber-Von** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Brief Introduction]
 
-Here are some ideas to get you started:
+I recently obtained a Certificate with Google cybersecurity and my next goal is to gain more expiernce in the Cybersecurity field.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objective
+[Provide objective]
+
+Completing this course has given me a great opertunity to gain a great understanding in the Cybersecurity field and my goal is to to become a Cybersecurity analyst so that I can do my part in helping people stay protected.
+
+
+
+
+
